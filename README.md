@@ -54,3 +54,6 @@ Why AI or data makes this better
 Tools you'll use (Python, Figma, GPT, etc.)
 ✅ This will become one of your signature portfolio projects — let me know which one you pick and I’ll help you flesh it out.
 
+Day 4
+Started watching Videos and helped a friend with AI
+
