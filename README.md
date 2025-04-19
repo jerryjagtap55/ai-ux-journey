@@ -57,4 +57,6 @@ Tools you'll use (Python, Figma, GPT, etc.)
 Day 4
 Started watching Videos and helped a friend with AI
 
+Day 5 
+completed week one of one module
 
